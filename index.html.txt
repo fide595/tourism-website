@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Explore Kenya</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #008080;
+            color: white;
+            padding: 20px;
+        }
+        section {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Kenya</h1>
+        <p>Discover the beauty of Africa's top travel destination</p>
+    </header>
+
+    <section>
+        <h2>Top Tourist Attractions</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Masai_Mara_National_Reserve.jpg" alt="Masai Mara">
+        <p>From the Great Migration in the Masai Mara to the sandy beaches of Diani, Kenya is full of breathtaking destinations.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Explore Kenya. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
