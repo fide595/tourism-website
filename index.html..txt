@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Kenya - Tourism</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f0f8ff;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        img {
+            max-width: 90%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Explore Kenya</h1>
+        <nav>
+            <a href="#destinations">Destinations</a>
+            <a href="#culture">Culture</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="destinations">
+        <h2>Top Destinations</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Mount_Kenya.jpg" alt="Mount Kenya">
+        <p>Discover the beauty of Mount Kenya, the Great Rift Valley, and the sandy beaches of Mombasa.</p>
+    </section>
+
+    <section id="culture">
+        <h2>Kenyan Culture</h2>
+        <p>Experience the rich traditions, music, dance, and cuisine of Kenya's diverse communities.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@explorekenya.com</p>
+    </section>
+</body>
+</html>
